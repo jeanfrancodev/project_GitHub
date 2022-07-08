@@ -1,3 +1,4 @@
 ->Projeto Base
 
-->Desenvolvido Tela de Login (Teste APROVADO)
+->Desenvolvido Tela de Login (Teste Aprovado)
+->Desenvolvido Tela Home (Teste Reprovado)
